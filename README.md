@@ -1,8 +1,8 @@
 # apriori branch
-algorithm과 association rule mining
+apriori algorithm과 association rule mining
+
+# dbscan branch
+dbscan algorithm
 
 # decision_tree branch
 decision_tree를 이용한 classification
-
-# dbscan branch
-dbscan 
